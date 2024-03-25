@@ -17,7 +17,7 @@
     </axis>
     <axis tag="slnt" name="slnt" minimum="-10" maximum="0" default="0">
       <labelname xml:lang="en">Slant</labelname>
-    </axis> 
+    </axis>   
     <axis tag="YTLC" name="YTLC" minimum="416" maximum="570" default="514" hidden="1">
       <labelname xml:lang="en">Parametric Lowercase Height</labelname>
     </axis>
@@ -134,13 +134,38 @@
     </rule>
   </rules>
   <sources>
+    <source filename="1A-drawings/Mains/RobotoFlex_GRAD-200.ufo" familyname="Roboto Flex">
+      <location>
+        <dimension name="wght" xvalue="400"/>
+        <dimension name="wdth" xvalue="100"/>
+        <dimension name="opsz" xvalue="0"/>
+        <dimension name="GRAD" xvalue="-200"/>
+        <dimension name="slnt" xvalue="0"/>
+        <dimension name="XTRA" xvalue="468"/>
+        <dimension name="XOPQ" xvalue="96"/>
+        <dimension name="YOPQ" xvalue="79"/>
+        <dimension name="YTLC" xvalue="514"/>
+        <dimension name="YTUC" xvalue="712"/>
+        <dimension name="YTAS" xvalue="750"/>
+        <dimension name="YTDE" xvalue="-203"/>
+        <dimension name="YTFI" xvalue="738"/>
+      </location>
+    </source>
     <source filename="1A-drawings/Mains/RobotoFlex_wdth25.ufo" familyname="Roboto Flex">
       <location>
         <dimension name="wght" xvalue="400"/>
         <dimension name="wdth" xvalue="25"/>
         <dimension name="opsz" xvalue="0"/>
+        <dimension name="GRAD" xvalue="0"/>
         <dimension name="slnt" xvalue="0"/>
+        <dimension name="XTRA" xvalue="468"/>
+        <dimension name="XOPQ" xvalue="96"/>
+        <dimension name="YOPQ" xvalue="79"/>
         <dimension name="YTLC" xvalue="514"/>
+        <dimension name="YTUC" xvalue="712"/>
+        <dimension name="YTAS" xvalue="750"/>
+        <dimension name="YTDE" xvalue="-203"/>
+        <dimension name="YTFI" xvalue="738"/>
       </location>
     </source>
     <source filename="1A-drawings/Mains/RobotoFlex_opsz144.ufo" familyname="Roboto Flex">
@@ -148,8 +173,33 @@
         <dimension name="wght" xvalue="400"/>
         <dimension name="wdth" xvalue="100"/>
         <dimension name="opsz" xvalue="1"/>
+        <dimension name="GRAD" xvalue="0"/>
         <dimension name="slnt" xvalue="0"/>
+        <dimension name="XTRA" xvalue="468"/>
+        <dimension name="XOPQ" xvalue="96"/>
+        <dimension name="YOPQ" xvalue="79"/>
         <dimension name="YTLC" xvalue="514"/>
+        <dimension name="YTUC" xvalue="712"/>
+        <dimension name="YTAS" xvalue="750"/>
+        <dimension name="YTDE" xvalue="-203"/>
+        <dimension name="YTFI" xvalue="738"/>
+      </location>
+    </source>
+    <source filename="1A-drawings/Mains/RobotoFlex_wdth151.ufo" familyname="Roboto Flex">
+      <location>
+        <dimension name="wght" xvalue="400"/>
+        <dimension name="wdth" xvalue="151"/>
+        <dimension name="opsz" xvalue="0"/>
+        <dimension name="GRAD" xvalue="0"/>
+        <dimension name="slnt" xvalue="0"/>
+        <dimension name="XTRA" xvalue="468"/>
+        <dimension name="XOPQ" xvalue="96"/>
+        <dimension name="YOPQ" xvalue="79"/>
+        <dimension name="YTLC" xvalue="514"/>
+        <dimension name="YTUC" xvalue="712"/>
+        <dimension name="YTAS" xvalue="750"/>
+        <dimension name="YTDE" xvalue="-203"/>
+        <dimension name="YTFI" xvalue="738"/>
       </location>
     </source>
     <source filename="1A-drawings/Mains/RobotoFlex_wght400.ufo" familyname="Roboto Flex">
@@ -157,8 +207,16 @@
         <dimension name="wght" xvalue="400"/>
         <dimension name="wdth" xvalue="100"/>
         <dimension name="opsz" xvalue="0"/>
+        <dimension name="GRAD" xvalue="0"/>
         <dimension name="slnt" xvalue="0"/>
+        <dimension name="XTRA" xvalue="468"/>
+        <dimension name="XOPQ" xvalue="96"/>
+        <dimension name="YOPQ" xvalue="79"/>
         <dimension name="YTLC" xvalue="514"/>
+        <dimension name="YTUC" xvalue="712"/>
+        <dimension name="YTAS" xvalue="750"/>
+        <dimension name="YTDE" xvalue="-203"/>
+        <dimension name="YTFI" xvalue="738"/>
       </location>
     </source>
     <source filename="1A-drawings/Mains/RobotoFlex_wght100.ufo" familyname="Roboto Flex">
@@ -166,8 +224,33 @@
         <dimension name="wght" xvalue="100"/>
         <dimension name="wdth" xvalue="100"/>
         <dimension name="opsz" xvalue="0"/>
+        <dimension name="GRAD" xvalue="0"/>
         <dimension name="slnt" xvalue="0"/>
+        <dimension name="XTRA" xvalue="468"/>
+        <dimension name="XOPQ" xvalue="96"/>
+        <dimension name="YOPQ" xvalue="79"/>
         <dimension name="YTLC" xvalue="514"/>
+        <dimension name="YTUC" xvalue="712"/>
+        <dimension name="YTAS" xvalue="750"/>
+        <dimension name="YTDE" xvalue="-203"/>
+        <dimension name="YTFI" xvalue="738"/>
+      </location>
+    </source>
+    <source filename="1A-drawings/Mains/RobotoFlex_wght1000.ufo" familyname="Roboto Flex">
+      <location>
+        <dimension name="wght" xvalue="1000"/>
+        <dimension name="wdth" xvalue="100"/>
+        <dimension name="opsz" xvalue="0"/>
+        <dimension name="GRAD" xvalue="0"/>
+        <dimension name="slnt" xvalue="0"/>
+        <dimension name="XTRA" xvalue="468"/>
+        <dimension name="XOPQ" xvalue="96"/>
+        <dimension name="YOPQ" xvalue="79"/>
+        <dimension name="YTLC" xvalue="514"/>
+        <dimension name="YTUC" xvalue="712"/>
+        <dimension name="YTAS" xvalue="750"/>
+        <dimension name="YTDE" xvalue="-203"/>
+        <dimension name="YTFI" xvalue="738"/>
       </location>
     </source>
     <source filename="1A-drawings/Mains/RobotoFlex_opsz8.ufo" familyname="Roboto Flex">
@@ -175,8 +258,50 @@
         <dimension name="wght" xvalue="400"/>
         <dimension name="wdth" xvalue="100"/>
         <dimension name="opsz" xvalue="-1"/>
+        <dimension name="GRAD" xvalue="0"/>
         <dimension name="slnt" xvalue="0"/>
+        <dimension name="XTRA" xvalue="468"/>
+        <dimension name="XOPQ" xvalue="96"/>
+        <dimension name="YOPQ" xvalue="79"/>
         <dimension name="YTLC" xvalue="514"/>
+        <dimension name="YTUC" xvalue="712"/>
+        <dimension name="YTAS" xvalue="750"/>
+        <dimension name="YTDE" xvalue="-203"/>
+        <dimension name="YTFI" xvalue="738"/>
+      </location>
+    </source>
+    <source filename="1A-drawings/Mains/RobotoFlex_GRAD150.ufo" familyname="Roboto Flex">
+      <location>
+        <dimension name="wght" xvalue="400"/>
+        <dimension name="wdth" xvalue="100"/>
+        <dimension name="opsz" xvalue="0"/>
+        <dimension name="GRAD" xvalue="150"/>
+        <dimension name="slnt" xvalue="0"/>
+        <dimension name="XTRA" xvalue="468"/>
+        <dimension name="XOPQ" xvalue="96"/>
+        <dimension name="YOPQ" xvalue="79"/>
+        <dimension name="YTLC" xvalue="514"/>
+        <dimension name="YTUC" xvalue="712"/>
+        <dimension name="YTAS" xvalue="750"/>
+        <dimension name="YTDE" xvalue="-203"/>
+        <dimension name="YTFI" xvalue="738"/>
+      </location>
+    </source>
+    <source filename="1A-drawings/Duovars/RobotoFlex_opsz144_wght1000.ufo" familyname="Roboto Flex">
+      <location>
+        <dimension name="wght" xvalue="1000"/>
+        <dimension name="wdth" xvalue="100"/>
+        <dimension name="opsz" xvalue="1"/>
+        <dimension name="GRAD" xvalue="0"/>
+        <dimension name="slnt" xvalue="0"/>
+        <dimension name="XTRA" xvalue="468"/>
+        <dimension name="XOPQ" xvalue="96"/>
+        <dimension name="YOPQ" xvalue="79"/>
+        <dimension name="YTLC" xvalue="514"/>
+        <dimension name="YTUC" xvalue="712"/>
+        <dimension name="YTAS" xvalue="750"/>
+        <dimension name="YTDE" xvalue="-203"/>
+        <dimension name="YTFI" xvalue="738"/>
       </location>
     </source>
     <source filename="1A-drawings/Duovars/RobotoFlex_opsz8_wdth25.ufo" familyname="Roboto Flex">
@@ -184,8 +309,16 @@
         <dimension name="wght" xvalue="400"/>
         <dimension name="wdth" xvalue="25"/>
         <dimension name="opsz" xvalue="-1"/>
+        <dimension name="GRAD" xvalue="0"/>
         <dimension name="slnt" xvalue="0"/>
+        <dimension name="XTRA" xvalue="468"/>
+        <dimension name="XOPQ" xvalue="96"/>
+        <dimension name="YOPQ" xvalue="79"/>
         <dimension name="YTLC" xvalue="514"/>
+        <dimension name="YTUC" xvalue="712"/>
+        <dimension name="YTAS" xvalue="750"/>
+        <dimension name="YTDE" xvalue="-203"/>
+        <dimension name="YTFI" xvalue="738"/>
       </location>
     </source>
     <source filename="1A-drawings/Duovars/RobotoFlex_opsz144_wdth25.ufo" familyname="Roboto Flex">
@@ -193,8 +326,50 @@
         <dimension name="wght" xvalue="400"/>
         <dimension name="wdth" xvalue="25"/>
         <dimension name="opsz" xvalue="1"/>
+        <dimension name="GRAD" xvalue="0"/>
         <dimension name="slnt" xvalue="0"/>
+        <dimension name="XTRA" xvalue="468"/>
+        <dimension name="XOPQ" xvalue="96"/>
+        <dimension name="YOPQ" xvalue="79"/>
         <dimension name="YTLC" xvalue="514"/>
+        <dimension name="YTUC" xvalue="712"/>
+        <dimension name="YTAS" xvalue="750"/>
+        <dimension name="YTDE" xvalue="-203"/>
+        <dimension name="YTFI" xvalue="738"/>
+      </location>
+    </source>
+    <source filename="1A-drawings/Duovars/RobotoFlex_opsz8_wght1000.ufo" familyname="Roboto Flex">
+      <location>
+        <dimension name="wght" xvalue="1000"/>
+        <dimension name="wdth" xvalue="100"/>
+        <dimension name="opsz" xvalue="-1"/>
+        <dimension name="GRAD" xvalue="0"/>
+        <dimension name="slnt" xvalue="0"/>
+        <dimension name="XTRA" xvalue="468"/>
+        <dimension name="XOPQ" xvalue="96"/>
+        <dimension name="YOPQ" xvalue="79"/>
+        <dimension name="YTLC" xvalue="514"/>
+        <dimension name="YTUC" xvalue="712"/>
+        <dimension name="YTAS" xvalue="750"/>
+        <dimension name="YTDE" xvalue="-203"/>
+        <dimension name="YTFI" xvalue="738"/>
+      </location>
+    </source>
+    <source filename="1A-drawings/Duovars/RobotoFlex_opsz8_wdth151.ufo" familyname="Roboto Flex">
+      <location>
+        <dimension name="wght" xvalue="400"/>
+        <dimension name="wdth" xvalue="151"/>
+        <dimension name="opsz" xvalue="-1"/>
+        <dimension name="GRAD" xvalue="0"/>
+        <dimension name="slnt" xvalue="0"/>
+        <dimension name="XTRA" xvalue="468"/>
+        <dimension name="XOPQ" xvalue="96"/>
+        <dimension name="YOPQ" xvalue="79"/>
+        <dimension name="YTLC" xvalue="514"/>
+        <dimension name="YTUC" xvalue="712"/>
+        <dimension name="YTAS" xvalue="750"/>
+        <dimension name="YTDE" xvalue="-203"/>
+        <dimension name="YTFI" xvalue="738"/>
       </location>
     </source>
     <source filename="1A-drawings/Duovars/RobotoFlex_opsz144_wght100.ufo" familyname="Roboto Flex">
@@ -202,8 +377,16 @@
         <dimension name="wght" xvalue="100"/>
         <dimension name="wdth" xvalue="100"/>
         <dimension name="opsz" xvalue="1"/>
+        <dimension name="GRAD" xvalue="0"/>
         <dimension name="slnt" xvalue="0"/>
+        <dimension name="XTRA" xvalue="468"/>
+        <dimension name="XOPQ" xvalue="96"/>
+        <dimension name="YOPQ" xvalue="79"/>
         <dimension name="YTLC" xvalue="514"/>
+        <dimension name="YTUC" xvalue="712"/>
+        <dimension name="YTAS" xvalue="750"/>
+        <dimension name="YTDE" xvalue="-203"/>
+        <dimension name="YTFI" xvalue="738"/>
       </location>
     </source>
     <source filename="1A-drawings/Duovars/RobotoFlex_opsz144_wght700.ufo" familyname="Roboto Flex">
@@ -211,8 +394,33 @@
         <dimension name="wght" xvalue="700"/>
         <dimension name="wdth" xvalue="100"/>
         <dimension name="opsz" xvalue="1"/>
+        <dimension name="GRAD" xvalue="0"/>
         <dimension name="slnt" xvalue="0"/>
+        <dimension name="XTRA" xvalue="468"/>
+        <dimension name="XOPQ" xvalue="96"/>
+        <dimension name="YOPQ" xvalue="79"/>
         <dimension name="YTLC" xvalue="514"/>
+        <dimension name="YTUC" xvalue="712"/>
+        <dimension name="YTAS" xvalue="750"/>
+        <dimension name="YTDE" xvalue="-203"/>
+        <dimension name="YTFI" xvalue="738"/>
+      </location>
+    </source>
+    <source filename="1A-drawings/Duovars/RobotoFlex_opsz144_wdth151.ufo" familyname="Roboto Flex">
+      <location>
+        <dimension name="wght" xvalue="400"/>
+        <dimension name="wdth" xvalue="151"/>
+        <dimension name="opsz" xvalue="1"/>
+        <dimension name="GRAD" xvalue="0"/>
+        <dimension name="slnt" xvalue="0"/>
+        <dimension name="XTRA" xvalue="468"/>
+        <dimension name="XOPQ" xvalue="96"/>
+        <dimension name="YOPQ" xvalue="79"/>
+        <dimension name="YTLC" xvalue="514"/>
+        <dimension name="YTUC" xvalue="712"/>
+        <dimension name="YTAS" xvalue="750"/>
+        <dimension name="YTDE" xvalue="-203"/>
+        <dimension name="YTFI" xvalue="738"/>
       </location>
     </source>
     <source filename="1A-drawings/Duovars/RobotoFlex_opsz8_wght100.ufo" familyname="Roboto Flex">
@@ -220,8 +428,101 @@
         <dimension name="wght" xvalue="100"/>
         <dimension name="wdth" xvalue="100"/>
         <dimension name="opsz" xvalue="-1"/>
+        <dimension name="GRAD" xvalue="0"/>
         <dimension name="slnt" xvalue="0"/>
+        <dimension name="XTRA" xvalue="468"/>
+        <dimension name="XOPQ" xvalue="96"/>
+        <dimension name="YOPQ" xvalue="79"/>
         <dimension name="YTLC" xvalue="514"/>
+        <dimension name="YTUC" xvalue="712"/>
+        <dimension name="YTAS" xvalue="750"/>
+        <dimension name="YTDE" xvalue="-203"/>
+        <dimension name="YTFI" xvalue="738"/>
+      </location>
+    </source>
+    <source filename="1A-drawings/Trivars/RobotoFlex_opsz14_wght1000_wdth25.ufo" familyname="Roboto Flex">
+      <location>
+        <dimension name="wght" xvalue="1000"/>
+        <dimension name="wdth" xvalue="25"/>
+        <dimension name="opsz" xvalue="0"/>
+        <dimension name="GRAD" xvalue="0"/>
+        <dimension name="slnt" xvalue="0"/>
+        <dimension name="XTRA" xvalue="468"/>
+        <dimension name="XOPQ" xvalue="96"/>
+        <dimension name="YOPQ" xvalue="79"/>
+        <dimension name="YTLC" xvalue="514"/>
+        <dimension name="YTUC" xvalue="712"/>
+        <dimension name="YTAS" xvalue="750"/>
+        <dimension name="YTDE" xvalue="-203"/>
+        <dimension name="YTFI" xvalue="738"/>
+      </location>
+    </source>
+    <source filename="1A-drawings/Trivars/RobotoFlex_opsz144_wght100_wdth151.ufo" familyname="Roboto Flex">
+      <location>
+        <dimension name="wght" xvalue="100"/>
+        <dimension name="wdth" xvalue="151"/>
+        <dimension name="opsz" xvalue="1"/>
+        <dimension name="GRAD" xvalue="0"/>
+        <dimension name="slnt" xvalue="0"/>
+        <dimension name="XTRA" xvalue="468"/>
+        <dimension name="XOPQ" xvalue="96"/>
+        <dimension name="YOPQ" xvalue="79"/>
+        <dimension name="YTLC" xvalue="514"/>
+        <dimension name="YTUC" xvalue="712"/>
+        <dimension name="YTAS" xvalue="750"/>
+        <dimension name="YTDE" xvalue="-203"/>
+        <dimension name="YTFI" xvalue="738"/>
+      </location>
+    </source>
+    <source filename="1A-drawings/Trivars/RobotoFlex_opsz8_wght1000_wdth151.ufo" familyname="Roboto Flex">
+      <location>
+        <dimension name="wght" xvalue="1000"/>
+        <dimension name="wdth" xvalue="151"/>
+        <dimension name="opsz" xvalue="-1"/>
+        <dimension name="GRAD" xvalue="0"/>
+        <dimension name="slnt" xvalue="0"/>
+        <dimension name="XTRA" xvalue="468"/>
+        <dimension name="XOPQ" xvalue="96"/>
+        <dimension name="YOPQ" xvalue="79"/>
+        <dimension name="YTLC" xvalue="514"/>
+        <dimension name="YTUC" xvalue="712"/>
+        <dimension name="YTAS" xvalue="750"/>
+        <dimension name="YTDE" xvalue="-203"/>
+        <dimension name="YTFI" xvalue="738"/>
+      </location>
+    </source>
+    <source filename="1A-drawings/Trivars/RobotoFlex_opsz8_wght1000_wdth25.ufo" familyname="Roboto Flex">
+      <location>
+        <dimension name="wght" xvalue="1000"/>
+        <dimension name="wdth" xvalue="25"/>
+        <dimension name="opsz" xvalue="-1"/>
+        <dimension name="GRAD" xvalue="0"/>
+        <dimension name="slnt" xvalue="0"/>
+        <dimension name="XTRA" xvalue="468"/>
+        <dimension name="XOPQ" xvalue="96"/>
+        <dimension name="YOPQ" xvalue="79"/>
+        <dimension name="YTLC" xvalue="514"/>
+        <dimension name="YTUC" xvalue="712"/>
+        <dimension name="YTAS" xvalue="750"/>
+        <dimension name="YTDE" xvalue="-203"/>
+        <dimension name="YTFI" xvalue="738"/>
+      </location>
+    </source>
+    <source filename="1A-drawings/Trivars/RobotoFlex_opsz14_wght100_wdth151.ufo" familyname="Roboto Flex">
+      <location>
+        <dimension name="wght" xvalue="100"/>
+        <dimension name="wdth" xvalue="151"/>
+        <dimension name="opsz" xvalue="0"/>
+        <dimension name="GRAD" xvalue="0"/>
+        <dimension name="slnt" xvalue="0"/>
+        <dimension name="XTRA" xvalue="468"/>
+        <dimension name="XOPQ" xvalue="96"/>
+        <dimension name="YOPQ" xvalue="79"/>
+        <dimension name="YTLC" xvalue="514"/>
+        <dimension name="YTUC" xvalue="712"/>
+        <dimension name="YTAS" xvalue="750"/>
+        <dimension name="YTDE" xvalue="-203"/>
+        <dimension name="YTFI" xvalue="738"/>
       </location>
     </source>
     <source filename="1A-drawings/Trivars/RobotoFlex_opsz144_wght100_wdth25.ufo" familyname="Roboto Flex">
@@ -229,8 +530,84 @@
         <dimension name="wght" xvalue="100"/>
         <dimension name="wdth" xvalue="25"/>
         <dimension name="opsz" xvalue="1"/>
+        <dimension name="GRAD" xvalue="0"/>
         <dimension name="slnt" xvalue="0"/>
+        <dimension name="XTRA" xvalue="468"/>
+        <dimension name="XOPQ" xvalue="96"/>
+        <dimension name="YOPQ" xvalue="79"/>
         <dimension name="YTLC" xvalue="514"/>
+        <dimension name="YTUC" xvalue="712"/>
+        <dimension name="YTAS" xvalue="750"/>
+        <dimension name="YTDE" xvalue="-203"/>
+        <dimension name="YTFI" xvalue="738"/>
+      </location>
+    </source>
+    <source filename="1A-drawings/Trivars/RobotoFlex_opsz144_wght1000_wdth25.ufo" familyname="Roboto Flex">
+      <location>
+        <dimension name="wght" xvalue="1000"/>
+        <dimension name="wdth" xvalue="25"/>
+        <dimension name="opsz" xvalue="1"/>
+        <dimension name="GRAD" xvalue="0"/>
+        <dimension name="slnt" xvalue="0"/>
+        <dimension name="XTRA" xvalue="468"/>
+        <dimension name="XOPQ" xvalue="96"/>
+        <dimension name="YOPQ" xvalue="79"/>
+        <dimension name="YTLC" xvalue="514"/>
+        <dimension name="YTUC" xvalue="712"/>
+        <dimension name="YTAS" xvalue="750"/>
+        <dimension name="YTDE" xvalue="-203"/>
+        <dimension name="YTFI" xvalue="738"/>
+      </location>
+    </source>
+    <source filename="1A-drawings/Trivars/RobotoFlex_opsz14_wght1000_wdth151.ufo" familyname="Roboto Flex">
+      <location>
+        <dimension name="wght" xvalue="1000"/>
+        <dimension name="wdth" xvalue="151"/>
+        <dimension name="opsz" xvalue="0"/>
+        <dimension name="GRAD" xvalue="0"/>
+        <dimension name="slnt" xvalue="0"/>
+        <dimension name="XTRA" xvalue="468"/>
+        <dimension name="XOPQ" xvalue="96"/>
+        <dimension name="YOPQ" xvalue="79"/>
+        <dimension name="YTLC" xvalue="514"/>
+        <dimension name="YTUC" xvalue="712"/>
+        <dimension name="YTAS" xvalue="750"/>
+        <dimension name="YTDE" xvalue="-203"/>
+        <dimension name="YTFI" xvalue="738"/>
+      </location>
+    </source>
+    <source filename="1A-drawings/Trivars/RobotoFlex_opsz8_wght100_wdth151.ufo" familyname="Roboto Flex">
+      <location>
+        <dimension name="wght" xvalue="100"/>
+        <dimension name="wdth" xvalue="151"/>
+        <dimension name="opsz" xvalue="-1"/>
+        <dimension name="GRAD" xvalue="0"/>
+        <dimension name="slnt" xvalue="0"/>
+        <dimension name="XTRA" xvalue="468"/>
+        <dimension name="XOPQ" xvalue="96"/>
+        <dimension name="YOPQ" xvalue="79"/>
+        <dimension name="YTLC" xvalue="514"/>
+        <dimension name="YTUC" xvalue="712"/>
+        <dimension name="YTAS" xvalue="750"/>
+        <dimension name="YTDE" xvalue="-203"/>
+        <dimension name="YTFI" xvalue="738"/>
+      </location>
+    </source>
+    <source filename="1A-drawings/Trivars/RobotoFlex_opsz144_wght1000_wdth151.ufo" familyname="Roboto Flex">
+      <location>
+        <dimension name="wght" xvalue="1000"/>
+        <dimension name="wdth" xvalue="151"/>
+        <dimension name="opsz" xvalue="1"/>
+        <dimension name="GRAD" xvalue="0"/>
+        <dimension name="slnt" xvalue="0"/>
+        <dimension name="XTRA" xvalue="468"/>
+        <dimension name="XOPQ" xvalue="96"/>
+        <dimension name="YOPQ" xvalue="79"/>
+        <dimension name="YTLC" xvalue="514"/>
+        <dimension name="YTUC" xvalue="712"/>
+        <dimension name="YTAS" xvalue="750"/>
+        <dimension name="YTDE" xvalue="-203"/>
+        <dimension name="YTFI" xvalue="738"/>
       </location>
     </source>
     <source filename="1A-drawings/Trivars/RobotoFlex_opsz8_wght100_wdth25.ufo" familyname="Roboto Flex">
@@ -238,8 +615,16 @@
         <dimension name="wght" xvalue="100"/>
         <dimension name="wdth" xvalue="25"/>
         <dimension name="opsz" xvalue="-1"/>
+        <dimension name="GRAD" xvalue="0"/>
         <dimension name="slnt" xvalue="0"/>
+        <dimension name="XTRA" xvalue="468"/>
+        <dimension name="XOPQ" xvalue="96"/>
+        <dimension name="YOPQ" xvalue="79"/>
         <dimension name="YTLC" xvalue="514"/>
+        <dimension name="YTUC" xvalue="712"/>
+        <dimension name="YTAS" xvalue="750"/>
+        <dimension name="YTDE" xvalue="-203"/>
+        <dimension name="YTFI" xvalue="738"/>
       </location>
     </source>
     <source filename="1A-drawings/Trivars/RobotoFlex_opsz14_wght100_wdth25.ufo" familyname="Roboto Flex">
@@ -247,8 +632,306 @@
         <dimension name="wght" xvalue="100"/>
         <dimension name="wdth" xvalue="25"/>
         <dimension name="opsz" xvalue="0"/>
+        <dimension name="GRAD" xvalue="0"/>
         <dimension name="slnt" xvalue="0"/>
+        <dimension name="XTRA" xvalue="468"/>
+        <dimension name="XOPQ" xvalue="96"/>
+        <dimension name="YOPQ" xvalue="79"/>
         <dimension name="YTLC" xvalue="514"/>
+        <dimension name="YTUC" xvalue="712"/>
+        <dimension name="YTAS" xvalue="750"/>
+        <dimension name="YTDE" xvalue="-203"/>
+        <dimension name="YTFI" xvalue="738"/>
+      </location>
+    </source>
+    <source filename="1A-drawings/Quadravars/RobotoFlex_opsz8_wght100_wdth100_GRAD-200.ufo" familyname="Roboto Flex">
+      <location>
+        <dimension name="wght" xvalue="100"/>
+        <dimension name="wdth" xvalue="100"/>
+        <dimension name="opsz" xvalue="-1"/>
+        <dimension name="GRAD" xvalue="-200"/>
+        <dimension name="slnt" xvalue="0"/>
+        <dimension name="XTRA" xvalue="468"/>
+        <dimension name="XOPQ" xvalue="96"/>
+        <dimension name="YOPQ" xvalue="79"/>
+        <dimension name="YTLC" xvalue="514"/>
+        <dimension name="YTUC" xvalue="712"/>
+        <dimension name="YTAS" xvalue="750"/>
+        <dimension name="YTDE" xvalue="-203"/>
+        <dimension name="YTFI" xvalue="738"/>
+      </location>
+    </source>
+    <source filename="1A-drawings/Quadravars/RobotoFlex_opsz8_wght100_wdth100_GRAD150.ufo" familyname="Roboto Flex">
+      <location>
+        <dimension name="wght" xvalue="100"/>
+        <dimension name="wdth" xvalue="100"/>
+        <dimension name="opsz" xvalue="-1"/>
+        <dimension name="GRAD" xvalue="150"/>
+        <dimension name="slnt" xvalue="0"/>
+        <dimension name="XTRA" xvalue="468"/>
+        <dimension name="XOPQ" xvalue="96"/>
+        <dimension name="YOPQ" xvalue="79"/>
+        <dimension name="YTLC" xvalue="514"/>
+        <dimension name="YTUC" xvalue="712"/>
+        <dimension name="YTAS" xvalue="750"/>
+        <dimension name="YTDE" xvalue="-203"/>
+        <dimension name="YTFI" xvalue="738"/>
+      </location>
+    </source>
+    <source filename="1A-drawings/Quadravars/RobotoFlex_opsz8_wght100_wdth25_GRAD-200.ufo" familyname="Roboto Flex">
+      <location>
+        <dimension name="wght" xvalue="100"/>
+        <dimension name="wdth" xvalue="25"/>
+        <dimension name="opsz" xvalue="-1"/>
+        <dimension name="GRAD" xvalue="-200"/>
+        <dimension name="slnt" xvalue="0"/>
+        <dimension name="XTRA" xvalue="468"/>
+        <dimension name="XOPQ" xvalue="96"/>
+        <dimension name="YOPQ" xvalue="79"/>
+        <dimension name="YTLC" xvalue="514"/>
+        <dimension name="YTUC" xvalue="712"/>
+        <dimension name="YTAS" xvalue="750"/>
+        <dimension name="YTDE" xvalue="-203"/>
+        <dimension name="YTFI" xvalue="738"/>
+      </location>
+    </source>
+    <source filename="1A-drawings/Quadravars/RobotoFlex_opsz8_wght100_wdth151_GRAD-200.ufo" familyname="Roboto Flex">
+      <location>
+        <dimension name="wght" xvalue="100"/>
+        <dimension name="wdth" xvalue="151"/>
+        <dimension name="opsz" xvalue="-1"/>
+        <dimension name="GRAD" xvalue="-200"/>
+        <dimension name="slnt" xvalue="0"/>
+        <dimension name="XTRA" xvalue="468"/>
+        <dimension name="XOPQ" xvalue="96"/>
+        <dimension name="YOPQ" xvalue="79"/>
+        <dimension name="YTLC" xvalue="514"/>
+        <dimension name="YTUC" xvalue="712"/>
+        <dimension name="YTAS" xvalue="750"/>
+        <dimension name="YTDE" xvalue="-203"/>
+        <dimension name="YTFI" xvalue="738"/>
+      </location>
+    </source>
+    <source filename="1A-drawings/Quadravars/RobotoFlex_opsz14_wght100_wdth100_GRAD-200.ufo" familyname="Roboto Flex">
+      <location>
+        <dimension name="wght" xvalue="100"/>
+        <dimension name="wdth" xvalue="100"/>
+        <dimension name="opsz" xvalue="0"/>
+        <dimension name="GRAD" xvalue="-200"/>
+        <dimension name="slnt" xvalue="0"/>
+        <dimension name="XTRA" xvalue="468"/>
+        <dimension name="XOPQ" xvalue="96"/>
+        <dimension name="YOPQ" xvalue="79"/>
+        <dimension name="YTLC" xvalue="514"/>
+        <dimension name="YTUC" xvalue="712"/>
+        <dimension name="YTAS" xvalue="750"/>
+        <dimension name="YTDE" xvalue="-203"/>
+        <dimension name="YTFI" xvalue="738"/>
+      </location>
+    </source>
+    <source filename="1A-drawings/Quadravars/RobotoFlex_opsz14_wght100_wdth100_GRAD150.ufo" familyname="Roboto Flex">
+      <location>
+        <dimension name="wght" xvalue="100"/>
+        <dimension name="wdth" xvalue="100"/>
+        <dimension name="opsz" xvalue="0"/>
+        <dimension name="GRAD" xvalue="150"/>
+        <dimension name="slnt" xvalue="0"/>
+        <dimension name="XTRA" xvalue="468"/>
+        <dimension name="XOPQ" xvalue="96"/>
+        <dimension name="YOPQ" xvalue="79"/>
+        <dimension name="YTLC" xvalue="514"/>
+        <dimension name="YTUC" xvalue="712"/>
+        <dimension name="YTAS" xvalue="750"/>
+        <dimension name="YTDE" xvalue="-203"/>
+        <dimension name="YTFI" xvalue="738"/>
+      </location>
+    </source>
+    <source filename="1A-drawings/Quadravars/RobotoFlex_opsz14_wght1000_wdth100_GRAD150.ufo" familyname="Roboto Flex">
+      <location>
+        <dimension name="wght" xvalue="1000"/>
+        <dimension name="wdth" xvalue="100"/>
+        <dimension name="opsz" xvalue="0"/>
+        <dimension name="GRAD" xvalue="150"/>
+        <dimension name="slnt" xvalue="0"/>
+        <dimension name="XTRA" xvalue="468"/>
+        <dimension name="XOPQ" xvalue="96"/>
+        <dimension name="YOPQ" xvalue="79"/>
+        <dimension name="YTLC" xvalue="514"/>
+        <dimension name="YTUC" xvalue="712"/>
+        <dimension name="YTAS" xvalue="750"/>
+        <dimension name="YTDE" xvalue="-203"/>
+        <dimension name="YTFI" xvalue="738"/>
+      </location>
+    </source>
+    <source filename="1A-drawings/Quadravars/RobotoFlex_opsz144_wght1000_wdth100_GRAD-200.ufo" familyname="Roboto Flex">
+      <location>
+        <dimension name="wght" xvalue="1000"/>
+        <dimension name="wdth" xvalue="100"/>
+        <dimension name="opsz" xvalue="1"/>
+        <dimension name="GRAD" xvalue="-200"/>
+        <dimension name="slnt" xvalue="0"/>
+        <dimension name="XTRA" xvalue="468"/>
+        <dimension name="XOPQ" xvalue="96"/>
+        <dimension name="YOPQ" xvalue="79"/>
+        <dimension name="YTLC" xvalue="514"/>
+        <dimension name="YTUC" xvalue="712"/>
+        <dimension name="YTAS" xvalue="750"/>
+        <dimension name="YTDE" xvalue="-203"/>
+        <dimension name="YTFI" xvalue="738"/>
+      </location>
+    </source>
+    <source filename="1A-drawings/Quadravars/RobotoFlex_opsz144_wght1000_wdth100_GRAD150.ufo" familyname="Roboto Flex">
+      <location>
+        <dimension name="wght" xvalue="1000"/>
+        <dimension name="wdth" xvalue="100"/>
+        <dimension name="opsz" xvalue="1"/>
+        <dimension name="GRAD" xvalue="150"/>
+        <dimension name="slnt" xvalue="0"/>
+        <dimension name="XTRA" xvalue="468"/>
+        <dimension name="XOPQ" xvalue="96"/>
+        <dimension name="YOPQ" xvalue="79"/>
+        <dimension name="YTLC" xvalue="514"/>
+        <dimension name="YTUC" xvalue="712"/>
+        <dimension name="YTAS" xvalue="750"/>
+        <dimension name="YTDE" xvalue="-203"/>
+        <dimension name="YTFI" xvalue="738"/>
+      </location>
+    </source>
+    <source filename="1A-drawings/Quadravars/RobotoFlex_opsz144_wght100_wdth100_GRAD-200.ufo" familyname="Roboto Flex">
+      <location>
+        <dimension name="wght" xvalue="100"/>
+        <dimension name="wdth" xvalue="100"/>
+        <dimension name="opsz" xvalue="1"/>
+        <dimension name="GRAD" xvalue="-200"/>
+        <dimension name="slnt" xvalue="0"/>
+        <dimension name="XTRA" xvalue="468"/>
+        <dimension name="XOPQ" xvalue="96"/>
+        <dimension name="YOPQ" xvalue="79"/>
+        <dimension name="YTLC" xvalue="514"/>
+        <dimension name="YTUC" xvalue="712"/>
+        <dimension name="YTAS" xvalue="750"/>
+        <dimension name="YTDE" xvalue="-203"/>
+        <dimension name="YTFI" xvalue="738"/>
+      </location>
+    </source>
+    <source filename="1A-drawings/Quadravars/RobotoFlex_opsz144_wght100_wdth25_GRAD-200.ufo" familyname="Roboto Flex">
+      <location>
+        <dimension name="wght" xvalue="100"/>
+        <dimension name="wdth" xvalue="25"/>
+        <dimension name="opsz" xvalue="1"/>
+        <dimension name="GRAD" xvalue="-200"/>
+        <dimension name="slnt" xvalue="0"/>
+        <dimension name="XTRA" xvalue="468"/>
+        <dimension name="XOPQ" xvalue="96"/>
+        <dimension name="YOPQ" xvalue="79"/>
+        <dimension name="YTLC" xvalue="514"/>
+        <dimension name="YTUC" xvalue="712"/>
+        <dimension name="YTAS" xvalue="750"/>
+        <dimension name="YTDE" xvalue="-203"/>
+        <dimension name="YTFI" xvalue="738"/>
+      </location>
+    </source>
+
+    <source filename="1A-drawings/Quadravars/RobotoFlex_opsz144_wght1000_wdth151_GRAD-200.ufo" familyname="Roboto Flex">
+      <location>
+        <dimension name="wght" xvalue="1000"/>
+        <dimension name="wdth" xvalue="151"/>
+        <dimension name="opsz" xvalue="1"/>
+        <dimension name="GRAD" xvalue="-200"/>
+        <dimension name="slnt" xvalue="0"/>
+        <dimension name="XTRA" xvalue="468"/>
+        <dimension name="XOPQ" xvalue="96"/>
+        <dimension name="YOPQ" xvalue="79"/>
+        <dimension name="YTLC" xvalue="514"/>
+        <dimension name="YTUC" xvalue="712"/>
+        <dimension name="YTAS" xvalue="750"/>
+        <dimension name="YTDE" xvalue="-203"/>
+        <dimension name="YTFI" xvalue="738"/>
+      </location>
+    </source>
+    <source filename="1A-drawings/Quadravars/RobotoFlex_opsz144_wght100_wdth151_GRAD-200.ufo" familyname="Roboto Flex">
+      <location>
+        <dimension name="wght" xvalue="100"/>
+        <dimension name="wdth" xvalue="151"/>
+        <dimension name="opsz" xvalue="1"/>
+        <dimension name="GRAD" xvalue="-200"/>
+        <dimension name="slnt" xvalue="0"/>
+        <dimension name="XTRA" xvalue="468"/>
+        <dimension name="XOPQ" xvalue="96"/>
+        <dimension name="YOPQ" xvalue="79"/>
+        <dimension name="YTLC" xvalue="514"/>
+        <dimension name="YTUC" xvalue="712"/>
+        <dimension name="YTAS" xvalue="750"/>
+        <dimension name="YTDE" xvalue="-203"/>
+        <dimension name="YTFI" xvalue="738"/>
+      </location>
+    </source>
+    <source filename="1A-drawings/Quadravars/RobotoFlex_opsz144_wght100_wdth100_GRAD150.ufo" familyname="Roboto Flex">
+      <location>
+        <dimension name="wght" xvalue="100"/>
+        <dimension name="wdth" xvalue="100"/>
+        <dimension name="opsz" xvalue="1"/>
+        <dimension name="GRAD" xvalue="150"/>
+        <dimension name="slnt" xvalue="0"/>
+        <dimension name="XTRA" xvalue="468"/>
+        <dimension name="XOPQ" xvalue="96"/>
+        <dimension name="YOPQ" xvalue="79"/>
+        <dimension name="YTLC" xvalue="514"/>
+        <dimension name="YTUC" xvalue="712"/>
+        <dimension name="YTAS" xvalue="750"/>
+        <dimension name="YTDE" xvalue="-203"/>
+        <dimension name="YTFI" xvalue="738"/>
+      </location>
+    </source>
+    <source filename="1A-drawings/Quadravars/RobotoFlex_opsz144_wght1000_wdth25_GRAD-200.ufo" familyname="Roboto Flex">
+      <location>
+        <dimension name="wght" xvalue="1000"/>
+        <dimension name="wdth" xvalue="25"/>
+        <dimension name="opsz" xvalue="1"/>
+        <dimension name="GRAD" xvalue="-200"/>
+        <dimension name="slnt" xvalue="0"/>
+        <dimension name="XTRA" xvalue="468"/>
+        <dimension name="XOPQ" xvalue="96"/>
+        <dimension name="YOPQ" xvalue="79"/>
+        <dimension name="YTLC" xvalue="514"/>
+        <dimension name="YTUC" xvalue="712"/>
+        <dimension name="YTAS" xvalue="750"/>
+        <dimension name="YTDE" xvalue="-203"/>
+        <dimension name="YTFI" xvalue="738"/>
+      </location>
+    </source>
+    <source filename="1A-drawings/Quadravars/RobotoFlex_opsz144_wght1000_wdth25_GRAD150.ufo" familyname="Roboto Flex">
+      <location>
+        <dimension name="wght" xvalue="1000"/>
+        <dimension name="wdth" xvalue="25"/>
+        <dimension name="opsz" xvalue="1"/>
+        <dimension name="GRAD" xvalue="150"/>
+        <dimension name="slnt" xvalue="0"/>
+        <dimension name="XTRA" xvalue="468"/>
+        <dimension name="XOPQ" xvalue="96"/>
+        <dimension name="YOPQ" xvalue="79"/>
+        <dimension name="YTLC" xvalue="514"/>
+        <dimension name="YTUC" xvalue="712"/>
+        <dimension name="YTAS" xvalue="750"/>
+        <dimension name="YTDE" xvalue="-203"/>
+        <dimension name="YTFI" xvalue="738"/>
+      </location>
+    </source>
+    <source filename="1A-drawings/Mains/slnt/RobotoFlex_opsz144_wght1000_wdth100_slnt-10.ufo" familyname="Roboto Flex">
+      <location>
+        <dimension name="wght" xvalue="1000"/>
+        <dimension name="wdth" xvalue="100"/>
+        <dimension name="opsz" xvalue="1"/>
+        <dimension name="GRAD" xvalue="0"/>
+        <dimension name="slnt" xvalue="-10"/>
+        <dimension name="XTRA" xvalue="468"/>
+        <dimension name="XOPQ" xvalue="96"/>
+        <dimension name="YOPQ" xvalue="79"/>
+        <dimension name="YTLC" xvalue="514"/>
+        <dimension name="YTUC" xvalue="712"/>
+        <dimension name="YTAS" xvalue="750"/>
+        <dimension name="YTDE" xvalue="-203"/>
+        <dimension name="YTFI" xvalue="738"/>
       </location>
     </source>
     <source filename="1A-drawings/Mains/slnt/RobotoFlex_opsz144_wght100_wdth25_slnt-10.ufo" familyname="Roboto Flex">
@@ -256,8 +939,16 @@
         <dimension name="wght" xvalue="100"/>
         <dimension name="wdth" xvalue="25"/>
         <dimension name="opsz" xvalue="1"/>
+        <dimension name="GRAD" xvalue="0"/>
         <dimension name="slnt" xvalue="-10"/>
+        <dimension name="XTRA" xvalue="468"/>
+        <dimension name="XOPQ" xvalue="96"/>
+        <dimension name="YOPQ" xvalue="79"/>
         <dimension name="YTLC" xvalue="514"/>
+        <dimension name="YTUC" xvalue="712"/>
+        <dimension name="YTAS" xvalue="750"/>
+        <dimension name="YTDE" xvalue="-203"/>
+        <dimension name="YTFI" xvalue="738"/>
       </location>
     </source>
     <source filename="1A-drawings/Mains/slnt/RobotoFlex_opsz144_wght400_wdth25_slnt-10.ufo" familyname="Roboto Flex">
@@ -265,8 +956,50 @@
         <dimension name="wght" xvalue="400"/>
         <dimension name="wdth" xvalue="25"/>
         <dimension name="opsz" xvalue="1"/>
+        <dimension name="GRAD" xvalue="0"/>
         <dimension name="slnt" xvalue="-10"/>
+        <dimension name="XTRA" xvalue="468"/>
+        <dimension name="XOPQ" xvalue="96"/>
+        <dimension name="YOPQ" xvalue="79"/>
         <dimension name="YTLC" xvalue="514"/>
+        <dimension name="YTUC" xvalue="712"/>
+        <dimension name="YTAS" xvalue="750"/>
+        <dimension name="YTDE" xvalue="-203"/>
+        <dimension name="YTFI" xvalue="738"/>
+      </location>
+    </source>
+    <source filename="1A-drawings/Mains/slnt/RobotoFlex_opsz144_wght1000_wdth25_slnt-10.ufo" familyname="Roboto Flex">
+      <location>
+        <dimension name="wght" xvalue="1000"/>
+        <dimension name="wdth" xvalue="25"/>
+        <dimension name="opsz" xvalue="1"/>
+        <dimension name="GRAD" xvalue="0"/>
+        <dimension name="slnt" xvalue="-10"/>
+        <dimension name="XTRA" xvalue="468"/>
+        <dimension name="XOPQ" xvalue="96"/>
+        <dimension name="YOPQ" xvalue="79"/>
+        <dimension name="YTLC" xvalue="514"/>
+        <dimension name="YTUC" xvalue="712"/>
+        <dimension name="YTAS" xvalue="750"/>
+        <dimension name="YTDE" xvalue="-203"/>
+        <dimension name="YTFI" xvalue="738"/>
+      </location>
+    </source>
+    <source filename="1A-drawings/Mains/slnt/RobotoFlex_opsz144_wght400_wdth151_slnt-10.ufo" familyname="Roboto Flex">
+      <location>
+        <dimension name="wght" xvalue="400"/>
+        <dimension name="wdth" xvalue="151"/>
+        <dimension name="opsz" xvalue="1"/>
+        <dimension name="GRAD" xvalue="0"/>
+        <dimension name="slnt" xvalue="-10"/>
+        <dimension name="XTRA" xvalue="468"/>
+        <dimension name="XOPQ" xvalue="96"/>
+        <dimension name="YOPQ" xvalue="79"/>
+        <dimension name="YTLC" xvalue="514"/>
+        <dimension name="YTUC" xvalue="712"/>
+        <dimension name="YTAS" xvalue="750"/>
+        <dimension name="YTDE" xvalue="-203"/>
+        <dimension name="YTFI" xvalue="738"/>
       </location>
     </source>
     <source filename="1A-drawings/Mains/slnt/RobotoFlex_opsz14_wght100_wdth100_slnt-10.ufo" familyname="Roboto Flex">
@@ -274,8 +1007,33 @@
         <dimension name="wght" xvalue="100"/>
         <dimension name="wdth" xvalue="100"/>
         <dimension name="opsz" xvalue="0"/>
+        <dimension name="GRAD" xvalue="0"/>
         <dimension name="slnt" xvalue="-10"/>
+        <dimension name="XTRA" xvalue="468"/>
+        <dimension name="XOPQ" xvalue="96"/>
+        <dimension name="YOPQ" xvalue="79"/>
         <dimension name="YTLC" xvalue="514"/>
+        <dimension name="YTUC" xvalue="712"/>
+        <dimension name="YTAS" xvalue="750"/>
+        <dimension name="YTDE" xvalue="-203"/>
+        <dimension name="YTFI" xvalue="738"/>
+      </location>
+    </source>
+    <source filename="1A-drawings/Mains/slnt/RobotoFlex_opsz144_wght1000_wdth151_slnt-10.ufo" familyname="Roboto Flex">
+      <location>
+        <dimension name="wght" xvalue="1000"/>
+        <dimension name="wdth" xvalue="151"/>
+        <dimension name="opsz" xvalue="1"/>
+        <dimension name="GRAD" xvalue="0"/>
+        <dimension name="slnt" xvalue="-10"/>
+        <dimension name="XTRA" xvalue="468"/>
+        <dimension name="XOPQ" xvalue="96"/>
+        <dimension name="YOPQ" xvalue="79"/>
+        <dimension name="YTLC" xvalue="514"/>
+        <dimension name="YTUC" xvalue="712"/>
+        <dimension name="YTAS" xvalue="750"/>
+        <dimension name="YTDE" xvalue="-203"/>
+        <dimension name="YTFI" xvalue="738"/>
       </location>
     </source>
     <source filename="1A-drawings/Mains/slnt/RobotoFlex_opsz8_wght400_wdth100_slnt-10.ufo" familyname="Roboto Flex">
@@ -283,8 +1041,16 @@
         <dimension name="wght" xvalue="400"/>
         <dimension name="wdth" xvalue="100"/>
         <dimension name="opsz" xvalue="-1"/>
+        <dimension name="GRAD" xvalue="0"/>
         <dimension name="slnt" xvalue="-10"/>
+        <dimension name="XTRA" xvalue="468"/>
+        <dimension name="XOPQ" xvalue="96"/>
+        <dimension name="YOPQ" xvalue="79"/>
         <dimension name="YTLC" xvalue="514"/>
+        <dimension name="YTUC" xvalue="712"/>
+        <dimension name="YTAS" xvalue="750"/>
+        <dimension name="YTDE" xvalue="-203"/>
+        <dimension name="YTFI" xvalue="738"/>
       </location>
     </source>
     <source filename="1A-drawings/Mains/slnt/RobotoFlex_opsz8_wght100_wdth25_slnt-10.ufo" familyname="Roboto Flex">
@@ -292,8 +1058,84 @@
         <dimension name="wght" xvalue="100"/>
         <dimension name="wdth" xvalue="25"/>
         <dimension name="opsz" xvalue="-1"/>
+        <dimension name="GRAD" xvalue="0"/>
         <dimension name="slnt" xvalue="-10"/>
+        <dimension name="XTRA" xvalue="468"/>
+        <dimension name="XOPQ" xvalue="96"/>
+        <dimension name="YOPQ" xvalue="79"/>
         <dimension name="YTLC" xvalue="514"/>
+        <dimension name="YTUC" xvalue="712"/>
+        <dimension name="YTAS" xvalue="750"/>
+        <dimension name="YTDE" xvalue="-203"/>
+        <dimension name="YTFI" xvalue="738"/>
+      </location>
+    </source>
+    <source filename="1A-drawings/Mains/slnt/RobotoFlex_opsz8_wght100_wdth151_slnt-10.ufo" familyname="Roboto Flex">
+      <location>
+        <dimension name="wght" xvalue="100"/>
+        <dimension name="wdth" xvalue="151"/>
+        <dimension name="opsz" xvalue="-1"/>
+        <dimension name="GRAD" xvalue="0"/>
+        <dimension name="slnt" xvalue="-10"/>
+        <dimension name="XTRA" xvalue="468"/>
+        <dimension name="XOPQ" xvalue="96"/>
+        <dimension name="YOPQ" xvalue="79"/>
+        <dimension name="YTLC" xvalue="514"/>
+        <dimension name="YTUC" xvalue="712"/>
+        <dimension name="YTAS" xvalue="750"/>
+        <dimension name="YTDE" xvalue="-203"/>
+        <dimension name="YTFI" xvalue="738"/>
+      </location>
+    </source>
+    <source filename="1A-drawings/Mains/slnt/RobotoFlex_opsz8_wght1000_wdth25_slnt-10.ufo" familyname="Roboto Flex">
+      <location>
+        <dimension name="wght" xvalue="1000"/>
+        <dimension name="wdth" xvalue="25"/>
+        <dimension name="opsz" xvalue="-1"/>
+        <dimension name="GRAD" xvalue="0"/>
+        <dimension name="slnt" xvalue="-10"/>
+        <dimension name="XTRA" xvalue="468"/>
+        <dimension name="XOPQ" xvalue="96"/>
+        <dimension name="YOPQ" xvalue="79"/>
+        <dimension name="YTLC" xvalue="514"/>
+        <dimension name="YTUC" xvalue="712"/>
+        <dimension name="YTAS" xvalue="750"/>
+        <dimension name="YTDE" xvalue="-203"/>
+        <dimension name="YTFI" xvalue="738"/>
+      </location>
+    </source>
+    <source filename="1A-drawings/Mains/slnt/RobotoFlex_opsz8_wght1000_wdth151_slnt-10.ufo" familyname="Roboto Flex">
+      <location>
+        <dimension name="wght" xvalue="1000"/>
+        <dimension name="wdth" xvalue="151"/>
+        <dimension name="opsz" xvalue="-1"/>
+        <dimension name="GRAD" xvalue="0"/>
+        <dimension name="slnt" xvalue="-10"/>
+        <dimension name="XTRA" xvalue="468"/>
+        <dimension name="XOPQ" xvalue="96"/>
+        <dimension name="YOPQ" xvalue="79"/>
+        <dimension name="YTLC" xvalue="514"/>
+        <dimension name="YTUC" xvalue="712"/>
+        <dimension name="YTAS" xvalue="750"/>
+        <dimension name="YTDE" xvalue="-203"/>
+        <dimension name="YTFI" xvalue="738"/>
+      </location>
+    </source>
+    <source filename="1A-drawings/Mains/slnt/RobotoFlex_opsz14_wght400_wdth151_slnt-10.ufo" familyname="Roboto Flex">
+      <location>
+        <dimension name="wght" xvalue="400"/>
+        <dimension name="wdth" xvalue="151"/>
+        <dimension name="opsz" xvalue="0"/>
+        <dimension name="GRAD" xvalue="0"/>
+        <dimension name="slnt" xvalue="-10"/>
+        <dimension name="XTRA" xvalue="468"/>
+        <dimension name="XOPQ" xvalue="96"/>
+        <dimension name="YOPQ" xvalue="79"/>
+        <dimension name="YTLC" xvalue="514"/>
+        <dimension name="YTUC" xvalue="712"/>
+        <dimension name="YTAS" xvalue="750"/>
+        <dimension name="YTDE" xvalue="-203"/>
+        <dimension name="YTFI" xvalue="738"/>
       </location>
     </source>
     <source filename="1A-drawings/Mains/slnt/RobotoFlex_opsz144_wght400_wdth100_slnt-10.ufo" familyname="Roboto Flex">
@@ -301,8 +1143,16 @@
         <dimension name="wght" xvalue="400"/>
         <dimension name="wdth" xvalue="100"/>
         <dimension name="opsz" xvalue="1"/>
+        <dimension name="GRAD" xvalue="0"/>
         <dimension name="slnt" xvalue="-10"/>
+        <dimension name="XTRA" xvalue="468"/>
+        <dimension name="XOPQ" xvalue="96"/>
+        <dimension name="YOPQ" xvalue="79"/>
         <dimension name="YTLC" xvalue="514"/>
+        <dimension name="YTUC" xvalue="712"/>
+        <dimension name="YTAS" xvalue="750"/>
+        <dimension name="YTDE" xvalue="-203"/>
+        <dimension name="YTFI" xvalue="738"/>
       </location>
     </source>
     <source filename="1A-drawings/Mains/slnt/RobotoFlex_opsz14_wght400_wdth25_slnt-10.ufo" familyname="Roboto Flex">
@@ -310,8 +1160,16 @@
         <dimension name="wght" xvalue="400"/>
         <dimension name="wdth" xvalue="25"/>
         <dimension name="opsz" xvalue="0"/>
+        <dimension name="GRAD" xvalue="0"/>
         <dimension name="slnt" xvalue="-10"/>
+        <dimension name="XTRA" xvalue="468"/>
+        <dimension name="XOPQ" xvalue="96"/>
+        <dimension name="YOPQ" xvalue="79"/>
         <dimension name="YTLC" xvalue="514"/>
+        <dimension name="YTUC" xvalue="712"/>
+        <dimension name="YTAS" xvalue="750"/>
+        <dimension name="YTDE" xvalue="-203"/>
+        <dimension name="YTFI" xvalue="738"/>
       </location>
     </source>
     <source filename="1A-drawings/Mains/slnt/RobotoFlex_slnt-10.ufo" familyname="Roboto Flex">
@@ -319,8 +1177,16 @@
         <dimension name="wght" xvalue="400"/>
         <dimension name="wdth" xvalue="100"/>
         <dimension name="opsz" xvalue="0"/>
+        <dimension name="GRAD" xvalue="0"/>
         <dimension name="slnt" xvalue="-10"/>
+        <dimension name="XTRA" xvalue="468"/>
+        <dimension name="XOPQ" xvalue="96"/>
+        <dimension name="YOPQ" xvalue="79"/>
         <dimension name="YTLC" xvalue="514"/>
+        <dimension name="YTUC" xvalue="712"/>
+        <dimension name="YTAS" xvalue="750"/>
+        <dimension name="YTDE" xvalue="-203"/>
+        <dimension name="YTFI" xvalue="738"/>
       </location>
     </source>
     <source filename="1A-drawings/Mains/slnt/RobotoFlex_opsz144_wght100_wdth100_slnt-10.ufo" familyname="Roboto Flex">
@@ -328,8 +1194,33 @@
         <dimension name="wght" xvalue="100"/>
         <dimension name="wdth" xvalue="100"/>
         <dimension name="opsz" xvalue="1"/>
+        <dimension name="GRAD" xvalue="0"/>
         <dimension name="slnt" xvalue="-10"/>
+        <dimension name="XTRA" xvalue="468"/>
+        <dimension name="XOPQ" xvalue="96"/>
+        <dimension name="YOPQ" xvalue="79"/>
         <dimension name="YTLC" xvalue="514"/>
+        <dimension name="YTUC" xvalue="712"/>
+        <dimension name="YTAS" xvalue="750"/>
+        <dimension name="YTDE" xvalue="-203"/>
+        <dimension name="YTFI" xvalue="738"/>
+      </location>
+    </source>
+    <source filename="1A-drawings/Mains/slnt/RobotoFlex_opsz144_wght100_wdth151_slnt-10.ufo" familyname="Roboto Flex">
+      <location>
+        <dimension name="wght" xvalue="100"/>
+        <dimension name="wdth" xvalue="151"/>
+        <dimension name="opsz" xvalue="1"/>
+        <dimension name="GRAD" xvalue="0"/>
+        <dimension name="slnt" xvalue="-10"/>
+        <dimension name="XTRA" xvalue="468"/>
+        <dimension name="XOPQ" xvalue="96"/>
+        <dimension name="YOPQ" xvalue="79"/>
+        <dimension name="YTLC" xvalue="514"/>
+        <dimension name="YTUC" xvalue="712"/>
+        <dimension name="YTAS" xvalue="750"/>
+        <dimension name="YTDE" xvalue="-203"/>
+        <dimension name="YTFI" xvalue="738"/>
       </location>
     </source>
     <source filename="1A-drawings/Mains/slnt/RobotoFlex_opsz14_wght100_wdth25_slnt-10.ufo" familyname="Roboto Flex">
@@ -337,8 +1228,84 @@
         <dimension name="wght" xvalue="100"/>
         <dimension name="wdth" xvalue="25"/>
         <dimension name="opsz" xvalue="0"/>
+        <dimension name="GRAD" xvalue="0"/>
         <dimension name="slnt" xvalue="-10"/>
+        <dimension name="XTRA" xvalue="468"/>
+        <dimension name="XOPQ" xvalue="96"/>
+        <dimension name="YOPQ" xvalue="79"/>
         <dimension name="YTLC" xvalue="514"/>
+        <dimension name="YTUC" xvalue="712"/>
+        <dimension name="YTAS" xvalue="750"/>
+        <dimension name="YTDE" xvalue="-203"/>
+        <dimension name="YTFI" xvalue="738"/>
+      </location>
+    </source>
+    <source filename="1A-drawings/Mains/slnt/RobotoFlex_opsz14_wght100_wdth151_slnt-10.ufo" familyname="Roboto Flex">
+      <location>
+        <dimension name="wght" xvalue="100"/>
+        <dimension name="wdth" xvalue="151"/>
+        <dimension name="opsz" xvalue="0"/>
+        <dimension name="GRAD" xvalue="0"/>
+        <dimension name="slnt" xvalue="-10"/>
+        <dimension name="XTRA" xvalue="468"/>
+        <dimension name="XOPQ" xvalue="96"/>
+        <dimension name="YOPQ" xvalue="79"/>
+        <dimension name="YTLC" xvalue="514"/>
+        <dimension name="YTUC" xvalue="712"/>
+        <dimension name="YTAS" xvalue="750"/>
+        <dimension name="YTDE" xvalue="-203"/>
+        <dimension name="YTFI" xvalue="738"/>
+      </location>
+    </source>
+    <source filename="1A-drawings/Mains/slnt/RobotoFlex_opsz14_wght1000_wdth25_slnt-10.ufo" familyname="Roboto Flex">
+      <location>
+        <dimension name="wght" xvalue="1000"/>
+        <dimension name="wdth" xvalue="25"/>
+        <dimension name="opsz" xvalue="0"/>
+        <dimension name="GRAD" xvalue="0"/>
+        <dimension name="slnt" xvalue="-10"/>
+        <dimension name="XTRA" xvalue="468"/>
+        <dimension name="XOPQ" xvalue="96"/>
+        <dimension name="YOPQ" xvalue="79"/>
+        <dimension name="YTLC" xvalue="514"/>
+        <dimension name="YTUC" xvalue="712"/>
+        <dimension name="YTAS" xvalue="750"/>
+        <dimension name="YTDE" xvalue="-203"/>
+        <dimension name="YTFI" xvalue="738"/>
+      </location>
+    </source>
+    <source filename="1A-drawings/Mains/slnt/RobotoFlex_opsz14_wght1000_wdth100_slnt-10.ufo" familyname="Roboto Flex">
+      <location>
+        <dimension name="wght" xvalue="1000"/>
+        <dimension name="wdth" xvalue="100"/>
+        <dimension name="opsz" xvalue="0"/>
+        <dimension name="GRAD" xvalue="0"/>
+        <dimension name="slnt" xvalue="-10"/>
+        <dimension name="XTRA" xvalue="468"/>
+        <dimension name="XOPQ" xvalue="96"/>
+        <dimension name="YOPQ" xvalue="79"/>
+        <dimension name="YTLC" xvalue="514"/>
+        <dimension name="YTUC" xvalue="712"/>
+        <dimension name="YTAS" xvalue="750"/>
+        <dimension name="YTDE" xvalue="-203"/>
+        <dimension name="YTFI" xvalue="738"/>
+      </location>
+    </source>
+    <source filename="1A-drawings/Mains/slnt/RobotoFlex_opsz14_wght1000_wdth151_slnt-10.ufo" familyname="Roboto Flex">
+      <location>
+        <dimension name="wght" xvalue="1000"/>
+        <dimension name="wdth" xvalue="151"/>
+        <dimension name="opsz" xvalue="0"/>
+        <dimension name="GRAD" xvalue="0"/>
+        <dimension name="slnt" xvalue="-10"/>
+        <dimension name="XTRA" xvalue="468"/>
+        <dimension name="XOPQ" xvalue="96"/>
+        <dimension name="YOPQ" xvalue="79"/>
+        <dimension name="YTLC" xvalue="514"/>
+        <dimension name="YTUC" xvalue="712"/>
+        <dimension name="YTAS" xvalue="750"/>
+        <dimension name="YTDE" xvalue="-203"/>
+        <dimension name="YTFI" xvalue="738"/>
       </location>
     </source>
     <source filename="1A-drawings/Parametric Axes/RobotoFlex_YTLC570.ufo" familyname="Roboto Flex">
@@ -371,7 +1338,6 @@
       </location>
       <kerning/>
       <info/>
-    </instance>
     <instance stylename="Bold">
       <location>
         <dimension name="wght" xvalue="700"/>
