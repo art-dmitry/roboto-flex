@@ -1,0 +1,209 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<designspace format="4.1">
+  <axes>
+    <axis tag="opsz" name="opsz" minimum="8" maximum="144" default="14">
+      <labelname xml:lang="en">Optical Size</labelname>
+      <map input="8" output="-1"/>
+      <map input="14" output="0"/>
+      <map input="36" output="0.492000"/>
+      <map input="84" output="0.946000"/>
+      <map input="144" output="1"/>
+    </axis>
+    <axis tag="wght" name="wght" minimum="100" maximum="1000" default="400">
+      <labelname xml:lang="en">Weight</labelname>
+    </axis>
+    <axis tag="slnt" name="slnt" minimum="-10" maximum="0" default="0">
+      <labelname xml:lang="en">Slant</labelname>
+    </axis>
+    <axis tag="YTLC" name="YTLC" minimum="416" maximum="570" default="514" hidden="1">
+      <labelname xml:lang="en">Parametric Lowercase Height</labelname>
+    </axis>
+  </axes>
+  <rules>
+    <rule>
+      <conditionset>
+        <condition name="wght" minimum="600" maximum="1000"/>
+      </conditionset>
+      <sub name="dollar" with="dollar.rvrn"/>
+    </rule>
+    <rule>
+      <conditionset>
+        <condition name="wght" minimum="600" maximum="1000"/>
+      </conditionset>
+      <sub name="coloncurrency" with="coloncurrency.rvrn"/>
+    </rule>
+    <rule>
+      <conditionset>
+        <condition name="wght" minimum="600" maximum="1000"/>
+      </conditionset>
+      <sub name="won" with="won.rvrn"/>
+    </rule>
+    <rule>
+      <conditionset>
+        <condition name="wght" minimum="600" maximum="1000"/>
+      </conditionset>
+      <sub name="cent" with="cent.rvrn"/>
+    </rule>
+    <rule>
+      <conditionset>
+        <condition name="wght" minimum="600" maximum="1000"/>
+      </conditionset>
+      <sub name="uni20B2" with="uni20B2.rvrn"/>
+    </rule>
+    <rule>
+      <conditionset>
+        <condition name="wght" minimum="600" maximum="1000"/>
+      </conditionset>
+      <sub name="uni20B1" with="uni20B1.rvrn"/>
+    </rule>
+    <rule>
+      <conditionset>
+        <condition name="wght" minimum="600" maximum="1000"/>
+      </conditionset>
+      <sub name="naira" with="naira.rvrn"/>
+    </rule>
+    <rule>
+      <conditionset>
+        <condition name="wght" minimum="600" maximum="1000"/>
+      </conditionset>
+      <sub name="uni20B5" with="uni20B5.rvrn"/>
+    </rule>
+    <rule>
+      <conditionset>
+        <condition name="wght" minimum="600" maximum="1000"/>
+        <condition name="opsz" minimum="0" maximum="0.16923076923076924"/>
+      </conditionset>
+      <sub name="hryvnia" with="hryvnia.rvrn"/>
+    </rule>
+    <rule>
+      <conditionset>
+        <condition name="opsz" minimum="-1" maximum="-0.3333333333333333"/>
+      </conditionset>
+      <sub name="hryvnia" with="hryvnia.rvrn"/>
+    </rule>
+  </rules>
+  <sources>
+    <source filename="1A-drawings/Mains/RobotoFlex_opsz144.ufo" familyname="Roboto Flex">
+      <location>
+        <dimension name="wght" xvalue="400"/>
+        <dimension name="opsz" xvalue="1"/>
+        <dimension name="slnt" xvalue="0"/>
+        <dimension name="YTLC" xvalue="514"/>
+      </location>
+    </source>
+    <source filename="1A-drawings/Mains/RobotoFlex_wght400.ufo" familyname="Roboto Flex">
+      <location>
+        <dimension name="wght" xvalue="400"/>
+        <dimension name="opsz" xvalue="0"/>
+        <dimension name="slnt" xvalue="0"/>
+        <dimension name="YTLC" xvalue="514"/>
+      </location>
+    </source>
+    <source filename="1A-drawings/Mains/RobotoFlex_wght1000.ufo" familyname="Roboto Flex">
+      <location>
+        <dimension name="wght" xvalue="1000"/>
+        <dimension name="opsz" xvalue="0"/>
+        <dimension name="slnt" xvalue="0"/>
+        <dimension name="YTLC" xvalue="514"/>
+      </location>
+    </source>
+    <source filename="1A-drawings/Mains/RobotoFlex_opsz8.ufo" familyname="Roboto Flex">
+      <location>
+        <dimension name="wght" xvalue="400"/>
+        <dimension name="opsz" xvalue="-1"/>
+        <dimension name="slnt" xvalue="0"/>
+        <dimension name="YTLC" xvalue="514"/>
+      </location>
+    </source>
+    <source filename="1A-drawings/Duovars/RobotoFlex_opsz144_wght1000.ufo" familyname="Roboto Flex">
+      <location>
+        <dimension name="wght" xvalue="1000"/>
+        <dimension name="opsz" xvalue="1"/>
+        <dimension name="slnt" xvalue="0"/>
+        <dimension name="YTLC" xvalue="514"/>
+      </location>
+    </source>
+    <source filename="1A-drawings/Duovars/RobotoFlex_opsz8_wght1000.ufo" familyname="Roboto Flex">
+      <location>
+        <dimension name="wght" xvalue="1000"/>
+        <dimension name="opsz" xvalue="-1"/>
+        <dimension name="slnt" xvalue="0"/>
+        <dimension name="YTLC" xvalue="514"/>
+      </location>
+    </source>
+    <source filename="1A-drawings/Duovars/RobotoFlex_opsz144_wght700.ufo" familyname="Roboto Flex">
+      <location>
+        <dimension name="wght" xvalue="700"/>
+        <dimension name="opsz" xvalue="1"/>
+        <dimension name="slnt" xvalue="0"/>
+        <dimension name="YTLC" xvalue="514"/>
+      </location>
+    </source>
+    <source filename="1A-drawings/Mains/slnt/RobotoFlex_slnt-10.ufo" familyname="Roboto Flex">
+      <location>
+        <dimension name="wght" xvalue="400"/>
+        <dimension name="opsz" xvalue="0"/>
+        <dimension name="slnt" xvalue="-10"/>
+        <dimension name="YTLC" xvalue="514"/>
+      </location>
+    </source>
+    <source filename="1A-drawings/Parametric Axes/RobotoFlex_YTLC570.ufo" familyname="Roboto Flex">
+      <location>
+        <dimension name="wght" xvalue="400"/>
+        <dimension name="opsz" xvalue="0"/>
+        <dimension name="slnt" xvalue="0"/>
+        <dimension name="YTLC" xvalue="570"/>
+      </location>
+    </source>
+    <source filename="1A-drawings/Parametric Axes/RobotoFlex_YTLC416.ufo" familyname="Roboto Flex">
+      <location>
+        <dimension name="wght" xvalue="400"/>
+        <dimension name="opsz" xvalue="0"/>
+        <dimension name="slnt" xvalue="0"/>
+        <dimension name="YTLC" xvalue="416"/>
+      </location>
+    </source>
+  </sources>
+  <instances>
+    <instance stylename="Regular">
+      <location>
+        <dimension name="wght" xvalue="400"/>
+        <dimension name="opsz" xvalue="0"/>
+        <dimension name="slnt" xvalue="0"/>
+        <dimension name="YTLC" xvalue="514"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance stylename="Bold">
+      <location>
+        <dimension name="wght" xvalue="700"/>
+        <dimension name="opsz" xvalue="0"/>
+        <dimension name="slnt" xvalue="0"/>
+        <dimension name="YTLC" xvalue="514"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance stylename="Italic">
+      <location>
+        <dimension name="wght" xvalue="400"/>
+        <dimension name="opsz" xvalue="0"/>
+        <dimension name="slnt" xvalue="-10"/>
+        <dimension name="YTLC" xvalue="514"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance stylename="Bold Italic">
+      <location>
+        <dimension name="wght" xvalue="700"/>
+        <dimension name="opsz" xvalue="0"/>
+        <dimension name="slnt" xvalue="-10"/>
+        <dimension name="YTLC" xvalue="514"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+  </instances>
+</designspace>
