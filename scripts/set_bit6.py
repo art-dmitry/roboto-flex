@@ -18,7 +18,7 @@ def set_overlap_flag(varfont):
 
 
 def main():
-    font_path = os.path.join(CWD, "..", "fonts", "variable", "RobotoFlex[GRAD,XOPQ,XTRA,YOPQ,YTAS,YTDE,YTFI,YTLC,YTUC,opsz,slnt,wdth,wght].ttf")
+    font_path = os.path.join(CWD, "..", "fonts", "variable", "RobotoFlex[YTLC,opsz,slnt,wdth,wght].ttf")
     ttFont = TTFont(font_path)
     set_overlap_flag(ttFont)
     print("Glyph bits set!")
