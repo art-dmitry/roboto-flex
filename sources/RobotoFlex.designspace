@@ -1338,6 +1338,7 @@
       </location>
       <kerning/>
       <info/>
+	</instance>
     <instance stylename="Bold">
       <location>
         <dimension name="wght" xvalue="700"/>
