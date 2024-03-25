@@ -256,7 +256,7 @@
     <instance stylename="Regular">
       <location>
         <dimension name="wght" xvalue="400"/>
-        <dimension name="wdth" xvalue="75"/>
+        <dimension name="wdth" xvalue="100"/>
         <dimension name="opsz" xvalue="0"/>
         <dimension name="slnt" xvalue="0"/>
         <dimension name="YTLC" xvalue="514"/>
@@ -267,7 +267,7 @@
     <instance stylename="Bold">
       <location>
         <dimension name="wght" xvalue="700"/>
-        <dimension name="wdth" xvalue="75"/>
+        <dimension name="wdth" xvalue="100"/>
         <dimension name="opsz" xvalue="0"/>
         <dimension name="slnt" xvalue="0"/>
         <dimension name="YTLC" xvalue="514"/>
@@ -278,7 +278,7 @@
     <instance stylename="Italic">
       <location>
         <dimension name="wght" xvalue="400"/>
-        <dimension name="wdth" xvalue="75"/>
+        <dimension name="wdth" xvalue="100"/>
         <dimension name="opsz" xvalue="0"/>
         <dimension name="slnt" xvalue="-10"/>
         <dimension name="YTLC" xvalue="514"/>
@@ -289,7 +289,7 @@
     <instance stylename="Bold Italic">
       <location>
         <dimension name="wght" xvalue="700"/>
-        <dimension name="wdth" xvalue="75"/>
+        <dimension name="wdth" xvalue="100"/>
         <dimension name="opsz" xvalue="0"/>
         <dimension name="slnt" xvalue="-10"/>
         <dimension name="YTLC" xvalue="514"/>
