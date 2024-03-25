@@ -161,11 +161,29 @@
         <dimension name="YTLC" xvalue="514"/>
       </location>
     </source>
+    <source filename="1A-drawings/Mains/RobotoFlex_wght1000.ufo" familyname="Roboto Flex">
+      <location>
+        <dimension name="wght" xvalue="1000"/>
+        <dimension name="wdth" xvalue="100"/>
+        <dimension name="opsz" xvalue="0"/>
+        <dimension name="slnt" xvalue="0"/>
+        <dimension name="YTLC" xvalue="514"/>
+      </location>
+    </source>
     <source filename="1A-drawings/Mains/RobotoFlex_opsz8.ufo" familyname="Roboto Flex">
       <location>
         <dimension name="wght" xvalue="400"/>
         <dimension name="wdth" xvalue="100"/>
         <dimension name="opsz" xvalue="-1"/>
+        <dimension name="slnt" xvalue="0"/>
+        <dimension name="YTLC" xvalue="514"/>
+      </location>
+    </source>
+    <source filename="1A-drawings/Duovars/RobotoFlex_opsz144_wght1000.ufo" familyname="Roboto Flex">
+      <location>
+        <dimension name="wght" xvalue="1000"/>
+        <dimension name="wdth" xvalue="100"/>
+        <dimension name="opsz" xvalue="1"/>
         <dimension name="slnt" xvalue="0"/>
         <dimension name="YTLC" xvalue="514"/>
       </location>
@@ -188,6 +206,15 @@
         <dimension name="YTLC" xvalue="514"/>
       </location>
     </source>
+    <source filename="1A-drawings/Duovars/RobotoFlex_opsz8_wght1000.ufo" familyname="Roboto Flex">
+      <location>
+        <dimension name="wght" xvalue="1000"/>
+        <dimension name="wdth" xvalue="100"/>
+        <dimension name="opsz" xvalue="-1"/>
+        <dimension name="slnt" xvalue="0"/>
+        <dimension name="YTLC" xvalue="514"/>
+      </location>
+    </source>
     <source filename="1A-drawings/Duovars/RobotoFlex_opsz144_wght700.ufo" familyname="Roboto Flex">
       <location>
         <dimension name="wght" xvalue="700"/>
@@ -197,11 +224,74 @@
         <dimension name="YTLC" xvalue="514"/>
       </location>
     </source>
+    <source filename="1A-drawings/Trivars/RobotoFlex_opsz14_wght1000_wdth25.ufo" familyname="Roboto Flex">
+      <location>
+        <dimension name="wght" xvalue="1000"/>
+        <dimension name="wdth" xvalue="25"/>
+        <dimension name="opsz" xvalue="0"/>
+        <dimension name="slnt" xvalue="0"/>
+        <dimension name="YTLC" xvalue="514"/>
+      </location>
+    </source>
+    <source filename="1A-drawings/Trivars/RobotoFlex_opsz8_wght1000_wdth25.ufo" familyname="Roboto Flex">
+      <location>
+        <dimension name="wght" xvalue="1000"/>
+        <dimension name="wdth" xvalue="25"/>
+        <dimension name="opsz" xvalue="-1"/>
+        <dimension name="slnt" xvalue="0"/>
+        <dimension name="YTLC" xvalue="514"/>
+      </location>
+    </source>
+    <source filename="1A-drawings/Trivars/RobotoFlex_opsz144_wght1000_wdth25.ufo" familyname="Roboto Flex">
+      <location>
+        <dimension name="wght" xvalue="1000"/>
+        <dimension name="wdth" xvalue="25"/>
+        <dimension name="opsz" xvalue="1"/>
+        <dimension name="slnt" xvalue="0"/>
+        <dimension name="YTLC" xvalue="514"/>
+      </location>
+    </source>
+    <source filename="1A-drawings/Mains/slnt/RobotoFlex_opsz144_wght1000_wdth100_slnt-10.ufo" familyname="Roboto Flex">
+      <location>
+        <dimension name="wght" xvalue="1000"/>
+        <dimension name="wdth" xvalue="100"/>
+        <dimension name="opsz" xvalue="1"/>
+        <dimension name="slnt" xvalue="-10"/>
+        <dimension name="YTLC" xvalue="514"/>
+      </location>
+    </source>
     <source filename="1A-drawings/Mains/slnt/RobotoFlex_opsz144_wght400_wdth25_slnt-10.ufo" familyname="Roboto Flex">
       <location>
         <dimension name="wght" xvalue="400"/>
         <dimension name="wdth" xvalue="25"/>
         <dimension name="opsz" xvalue="1"/>
+        <dimension name="slnt" xvalue="-10"/>
+        <dimension name="YTLC" xvalue="514"/>
+      </location>
+    </source>
+    <source filename="1A-drawings/Mains/slnt/RobotoFlex_opsz144_wght1000_wdth25_slnt-10.ufo" familyname="Roboto Flex">
+      <location>
+        <dimension name="wght" xvalue="1000"/>
+        <dimension name="wdth" xvalue="25"/>
+        <dimension name="opsz" xvalue="1"/>
+        <dimension name="slnt" xvalue="-10"/>
+        <dimension name="YTLC" xvalue="514"/>
+      </location>
+    </source>
+    <source filename="1A-drawings/Mains/slnt/RobotoFlex_opsz8_wght400_wdth100_slnt-10.ufo" familyname="Roboto Flex">
+      <location>
+        <dimension name="wght" xvalue="400"/>
+        <dimension name="wdth" xvalue="100"/>
+        <dimension name="opsz" xvalue="-1"/>
+        <dimension name="slnt" xvalue="-10"/>
+        <dimension name="YTLC" xvalue="514"/>
+      </location>
+    </source>
+    <source filename="1A-drawings/Mains/slnt/RobotoFlex_opsz8_wght1000_wdth25_slnt-10.ufo" familyname="Roboto Flex">
+      <location>
+        <dimension name="wght" xvalue="1000"/>
+        <dimension name="wdth" xvalue="25"/>
+        <dimension name="opsz" xvalue="-1"/>
         <dimension name="slnt" xvalue="-10"/>
         <dimension name="YTLC" xvalue="514"/>
       </location>
@@ -227,6 +317,24 @@
     <source filename="1A-drawings/Mains/slnt/RobotoFlex_slnt-10.ufo" familyname="Roboto Flex">
       <location>
         <dimension name="wght" xvalue="400"/>
+        <dimension name="wdth" xvalue="100"/>
+        <dimension name="opsz" xvalue="0"/>
+        <dimension name="slnt" xvalue="-10"/>
+        <dimension name="YTLC" xvalue="514"/>
+      </location>
+    </source>
+    <source filename="1A-drawings/Mains/slnt/RobotoFlex_opsz14_wght1000_wdth25_slnt-10.ufo" familyname="Roboto Flex">
+      <location>
+        <dimension name="wght" xvalue="1000"/>
+        <dimension name="wdth" xvalue="25"/>
+        <dimension name="opsz" xvalue="0"/>
+        <dimension name="slnt" xvalue="-10"/>
+        <dimension name="YTLC" xvalue="514"/>
+      </location>
+    </source>
+    <source filename="1A-drawings/Mains/slnt/RobotoFlex_opsz14_wght1000_wdth100_slnt-10.ufo" familyname="Roboto Flex">
+      <location>
+        <dimension name="wght" xvalue="1000"/>
         <dimension name="wdth" xvalue="100"/>
         <dimension name="opsz" xvalue="0"/>
         <dimension name="slnt" xvalue="-10"/>
