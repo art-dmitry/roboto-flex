@@ -28,16 +28,8 @@ AXIS_DFLTS = {
     "wght": 400,
     "wdth": 100,
     "opsz": 0,
-    "GRAD": 0,
     "slnt": 0,
-    "XTRA": 468,
-    "XOPQ": 96,
-    "YOPQ": 79,
     "YTLC": 514,
-    "YTUC": 712,
-    "YTAS": 750,
-    "YTDE": -203,
-    "YTFI": 738
 }
 
 OPSZ_MAP = {
@@ -91,17 +83,8 @@ def build_designspace(ufo_paths):
         dict(minimum=100, maximum=1000, default=400, name="wght", tag="wght", labelNames={"en": "wght"}, map=[], hidden=0),
         dict(minimum=25, maximum=151, default=100, name="wdth", tag="wdth", labelNames={"en": "wdth"}, map=[], hidden=0),
         dict(minimum=8, maximum=144, default=14, name="opsz", tag="opsz", labelNames={"en": "opsz"}, map=[ (8.0, -1), (14.0, 0), (36.0, 0.492), (84.0, 0.946), (144.0, 1.0) ], hidden=0),
-        dict(minimum=-200, maximum=150, default=0, name="GRAD", tag="GRAD", labelNames={"en": "GRAD"}, map=[], hidden=0),
         dict(minimum=-10, maximum=0, default=0, name="slnt", tag="slnt", labelNames={"en": "slnt"}, map=[], hidden=1),
-        dict(minimum=323, maximum=603, default=468, name="XTRA", tag="XTRA", labelNames={"en": "XTRA"}, map=[], hidden=1),
-        dict(minimum=27, maximum=175, default=96, name="XOPQ", tag="XOPQ", labelNames={"en": "XOPQ"}, map=[], hidden=1),
-        dict(minimum=25, maximum=135, default=79, name="YOPQ", tag="YOPQ", labelNames={"en": "YOPQ"}, map=[], hidden=1),
-
         dict(minimum=416, maximum=570, default=514, name="YTLC", tag="YTLC", labelNames={"en": "YTLC"}, map=[], hidden=1),
-        dict(minimum=528, maximum=760, default=712, name="YTUC", tag="YTUC", labelNames={"en": "YTUC"}, map=[], hidden=1),
-        dict(minimum=649, maximum=854, default=750, name="YTAS", tag="YTAS", labelNames={"en": "YTAS"}, map=[], hidden=1),
-        dict(minimum=-305, maximum=-98, default=-203, name="YTDE", tag="YTDE", labelNames={"en": "YTDE"}, map=[], hidden=1),
-        dict(minimum=560, maximum=788, default=738, name="YTFI", tag="YTFI", labelNames={"en": "YTFI"}, map=[], hidden=1),
     ]
     # Add axes
     for ax in axes:
