@@ -1,9 +1,7 @@
 import os
 from fontTools.ttLib import TTFont
 
-
 CWD = os.path.dirname(__file__)
-
 
 def set_overlap_flag(varfont):
     glyf = varfont["glyf"]
@@ -16,14 +14,12 @@ def set_overlap_flag(varfont):
             # Set OVERLAP_SIMPLE bit for simple glyphs
             glyph.flags[0] |= 0x40
 
-
 def main():
     font_path = os.path.join(CWD, "..", "fonts", "variable", "RobotoFlex[YTLC,opsz,slnt,wdth,wght].ttf")
     ttFont = TTFont(font_path)
     set_overlap_flag(ttFont)
     print("Glyph bits set!")
     ttFont.save(ttFont.reader.file.name)
-
 
 if __name__ == "__main__":
     main()
