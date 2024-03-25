@@ -26,7 +26,7 @@ SRC_SUB_DIRS = [
 
 AXIS_DFLTS = {
     "wght": 400,
-    "wdth": 100,
+    "wdth": 75,
     "opsz": 0,
     "slnt": 0,
     "YTLC": 514,
@@ -80,8 +80,8 @@ def build_designspace(ufo_paths):
     doc = DesignSpaceDocument()
 
     axes = [
-        dict(minimum=100, maximum=1000, default=400, name="wght", tag="wght", labelNames={"en": "wght"}, map=[], hidden=0),
-        dict(minimum=25, maximum=151, default=100, name="wdth", tag="wdth", labelNames={"en": "wdth"}, map=[], hidden=0),
+        dict(minimum=400, maximum=700, default=400, name="wght", tag="wght", labelNames={"en": "wght"}, map=[], hidden=0),
+        dict(minimum=75, maximum=100, default=75, name="wdth", tag="wdth", labelNames={"en": "wdth"}, map=[], hidden=0),
         dict(minimum=8, maximum=144, default=14, name="opsz", tag="opsz", labelNames={"en": "opsz"}, map=[ (8.0, -1), (14.0, 0), (36.0, 0.492), (84.0, 0.946), (144.0, 1.0) ], hidden=0),
         dict(minimum=-10, maximum=0, default=0, name="slnt", tag="slnt", labelNames={"en": "slnt"}, map=[], hidden=1),
         dict(minimum=416, maximum=570, default=514, name="YTLC", tag="YTLC", labelNames={"en": "YTLC"}, map=[], hidden=1),
