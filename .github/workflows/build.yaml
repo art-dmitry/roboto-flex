@@ -1,4 +1,4 @@
-name: Build font and specimen
+name: Build font and specimen1
 
 on: [push, release]
 
