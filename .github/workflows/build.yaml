@@ -8,7 +8,7 @@ jobs:
     steps:
     - uses: actions/checkout@v4
     - name: Set up Python 3.9
-      uses: actions/setup-python@v2
+      uses: actions/setup-python@v6
       with:
         python-version: 3.9
     - name: Install sys tools/deps
@@ -63,7 +63,7 @@ jobs:
         github_token: ${{ secrets.GITHUB_TOKEN }}
         publish_dir: ./out
     - name: Archive artifacts
-      uses: actions/upload-artifact@v2
+      uses: actions/upload-artifact@v5
       with:
         name: ${{ env.ZIP_NAME }}
         path: |
@@ -81,9 +81,9 @@ jobs:
     env:
       ZIP_NAME: ${{ needs.build.outputs.zip_name }}
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v5
       - name: Download artefact files
-        uses: actions/download-artifact@v2
+        uses: actions/download-artifact@v6
         with:
           name: ${{ env.ZIP_NAME }}
           path: ${{ env.ZIP_NAME }}
